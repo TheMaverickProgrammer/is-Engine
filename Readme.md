@@ -2,11 +2,7 @@
 
 is::Engine is a 2D game engine based on SFML which allows you to easily develop video games on PC and Android. It integrates Box 2D, SWOOSH, Admob and modules that allow you to manage the introduction, main menu, game level, game over screen of your game.
 
-[![SFML logo](https://www.sfml-dev.org/images/logo.png)](https://www.sfml-dev.org)
-
-[![Box2D Logo](https://box2d.org/images/logo.svg)](https://github.com/TheMaverickProgrammer/Swoosh)
-
-[![logo](https://i.imgur.com/tri24Y5.png)](https://github.com/erincatto/box2d)
+[![SFML logo](https://www.sfml-dev.org/images/logo.png)](https://www.sfml-dev.org)  [![Box2D Logo](https://box2d.org/images/logo.svg)](https://github.com/TheMaverickProgrammer/Swoosh)  [![logo](https://i.imgur.com/tri24Y5.png)](https://github.com/erincatto/box2d)
 
 ## Features
 - Language manager
@@ -23,7 +19,7 @@ is::Engine is a 2D game engine based on SFML which allows you to easily develop 
 - [Android] Show Reward Video
 
 ## Extras
-The engine comes with an example (2D platform game) that uses only the functions of the engine, in order to show you its power and how to use it. Now imagine what you can do when using Box 2D!
+The engine comes with an example (2D platform game) that uses only the functions of the engine, in order to show you its power and how to use it. Now imagine what you can do when using Box 2D and other tools!
 
 ## In this directory you have two projects :
 - **SFML_AndroidStudio-master** : for Android development with Android Studio
